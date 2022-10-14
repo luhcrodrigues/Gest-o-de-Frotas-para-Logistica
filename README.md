@@ -2,8 +2,10 @@
 
 ## Contém:
 ● Um arquivo com as tabelas de cadastro dos motoristas, veículos e clientes;
+
 ● Um arquivo com o registro dos fretes realizados, incluindo informações sobre o valor do 
 frete, o peso e o valor da mercadoria transportada;
+
 ● Um arquivo com o registro do km rodado por cada motorista, incluindo informações 
 sobre o valor do combustível e também o custo de manutenção.
 
